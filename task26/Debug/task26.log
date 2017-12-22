@@ -1,0 +1,8 @@
+﻿  StepsLadderFinder.cpp
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task26\task26\stepsladderfinder.cpp(31): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task26\task26\stepsladderfinder.cpp(57): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task26\task26\stepsladderfinder.cpp(58): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task26\task26\stepsladderfinder.cpp(65): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task26\task26\stepsladderfinder.cpp(110): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task26\task26\stepsladderfinder.cpp(187): warning C4715: StepsLadderFinder::check: значение возвращается не при всех путях выполнения
+  task26.vcxproj -> C:\Users\morga\Documents\Visual Studio 2015\Projects\2course\tasks\task26\Debug\task26.exe
